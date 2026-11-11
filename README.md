@@ -53,7 +53,7 @@ WHOIS provides useful information about domain ownership records, registration d
 
 **Evidence:**
 
-Screenshot: `Whois.jpeg`
+Screenshot: ![WHOIS Screenshot](screenshots/01-whois.jpeg)
 
 ---
 
@@ -78,7 +78,7 @@ Technology fingerprinting helps security professionals understand the technologi
 
 **Evidence:**
 
-Screenshot: `screenshots/02-whatweb.png`
+Screenshot: ![WhatWeb Screenshot](screenshots/02-whatweb.jpeg)
 
 ---
 
@@ -103,7 +103,7 @@ DNS resolution translates human-readable domain names into IP addresses. Underst
 
 **Evidence:**
 
-Screenshot: `screenshots/03-nslookup.png`
+Screenshot: ![NSLookup Screenshot](screenshots/03-nslookup.jpeg)
 
 ---
 
@@ -128,7 +128,7 @@ HTTP response headers provide valuable information about how a web server commun
 
 **Evidence:**
 
-Screenshot: `screenshots/04-curl-headers.png`
+Screenshot: ![cURL Screenshot](screenshots/04-curl-headers.jpeg)
 
 ---
 
@@ -153,8 +153,7 @@ A Web Application Firewall helps protect web applications by monitoring and filt
 
 **Evidence:**
 
-Screenshot: `screenshots/05-wafw00f.png`
-
+Screenshot: ![WAFW00F Screenshot](screenshots/05-wafw00f.jpeg)
 ---
 
 ### Task 06 – DNS Enumeration Using DNSRecon
@@ -178,7 +177,7 @@ DNS enumeration helps security professionals understand an organisation's DNS in
 
 **Evidence:**
 
-Screenshot: `screenshots/06-dnsrecon.png`
+Screenshot: ![DNSRecon Screenshot](screenshots/06-dnsrecon.jpeg)
 
 ---
 
