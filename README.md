@@ -229,3 +229,8 @@ Reconnaissance activities should only be conducted against systems and domains f
 | Target Domain | `networkwalks.com` |
 | Operating Environment | Kali Linux |
 | Tools Used | WHOIS, WhatWeb, NSLookup, cURL, WAFW00F, DNSRecon |
+
+Project: W2-PM1 – Week 2 Project Module 1
+Domain used in the practical: networkwalks.com
+Environment: Kali Linux
+Category: Cybersecurity | Ethical Hacking | Footprinting & Reconnaissance
