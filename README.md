@@ -53,7 +53,7 @@ WHOIS provides useful information about domain ownership records, registration d
 
 **Evidence:**
 
-Screenshot: `screenshots/01-whois.png`
+Screenshot: `[screenshots/01-whois.png](https://github.com/rushdha-22/NETWORKWALKS-RUSHDHA-B084K-WK2-PM1-kali-linux-footprinting-reconnaissance/commit/f3c8f270b5290651e9757e0857fc4dd992fce79f)`
 
 ---
 
